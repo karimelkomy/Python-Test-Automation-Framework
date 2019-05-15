@@ -1,5 +1,15 @@
 # Python-Test-Automation-Framework
-Test Automation Framework using selenium and Python
+
+Description
+=============
+Test Automation Framework using selenium and Python with the below features:
+
+* Framework is based on page object model.
+* Reporting using Allure report.
+* Reading locators from JSON file.
+* Reading test data from JSON file.
+* Integrated with TestRail to update test cases status after each run.
+
 
 Install dependences
 =====================
