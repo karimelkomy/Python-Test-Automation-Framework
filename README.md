@@ -87,10 +87,10 @@ In order to run the test case after creation, use on of the below commands:
    * There are other options of run that you can search for them, as running all the test cases for specific epic/story or with specific severity
 
 
-Step integration with TestRail
-===============================
+Integration with TestRail
+=========================
 
-Inorder to setup the integration with TestRail, edit ``testrail.cfg`` with your testrail data, as below:
+In order to setup the integration with TestRail, edit ``testrail.cfg`` with your testrail domain and credentials, as below:
 
         [API]
         url = https://[your testrail domain].testrail.io
