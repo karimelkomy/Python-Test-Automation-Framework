@@ -1,0 +1,38 @@
+[
+  {
+    "pageName": "HomePage",
+    "name": "link_login",
+    "locateUsing": "xpath",
+    "locator": "//a[contains(text(),'Login')]"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "header_login",
+    "locateUsing": "xpath",
+    "locator": "//h1[contains(text(),'Log In to Let\\'s Kode It')]]"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "input_email",
+    "locateUsing": "xpath",
+    "locator": "//input[@id='user_email']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "input_password",
+    "locateUsing": "xpath",
+    "locator": "//input[@id='user_password']"
+  },
+  {
+    "pageName": "LoginPage",
+    "name": "btn_login",
+    "locateUsing": "xpath",
+    "locator": "//input[@value='Log In']"
+  },
+  {
+    "pageName": "LoggedInPage",
+    "name": "input_search",
+    "locateUsing": "xpath",
+    "locator": "//input[@id='search-courses']"
+  }
+]
