@@ -9,6 +9,7 @@ Test Automation Framework using selenium and Python with the below features:
 * Reading locators from JSON file.
 * Reading test data from JSON file.
 * Integrated with TestRail to update test cases status after each run.
+* Framework can integrate with CodeShip.
 
 
 Install dependences
